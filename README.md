@@ -1,6 +1,6 @@
 # Housing market analyis
 
-Analysis and discussion in place in the Jupyter Notebook.
+A quick look at housing prices in Ireland in the context of earnings and central bank mortgage restrictions. Analysis and discussion in place in the Jupyter Notebook.
 
 Earnings and housing data from Central Statistics Office (CSO):
 
